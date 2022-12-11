@@ -10,6 +10,7 @@ Hi! My name is Alina. I'm working as a QA Engineer now. But I really want to bec
 * Git
 * Devtools
 * SQL
+* JS
 ## CODE EXAMPLE
 ```
 function multiply (a, b) {
